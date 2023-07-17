@@ -149,11 +149,11 @@ ul li span:hover
     cursor: pointer;
 }
 
-@media (max-width:720px)
+@media (max-width:347px)
 {
     .header
     {
-        margin-top: 10px;
+        margin-top: 4px;
         margin-left: 8px;
         position: absolute;
         font-weight:600;
@@ -161,17 +161,17 @@ ul li span:hover
     }
     .container input
     {
-      margin-left: 40px;
-      padding: 25px;
-      width: 500px;
+      margin-left: 0px;
+      padding: 10px;
+      width: 250px;
       border-radius: 20px;
     }
     .container button
     {
-      margin-left: 45%;
-      margin-top: 10px;
-      padding: 20px;
-      width: 150px;
+      margin-left: 30%;
+      margin-top: 5px;
+      padding: 10px;
+      width: 80px;
       border-radius: 20px;
     }
 
@@ -180,8 +180,8 @@ ul li span:hover
      border-radius: 20px;
      border: 5px solid rgb(0, 51, 255);
      margin-top: 10%;
-     margin-left: -20px;
-     width:90%;
+     margin-left: 5px;
+     width:95%;
      min-height: 50vh;
      background: rgb(207, 225, 10);
      padding: 20px;
@@ -193,7 +193,7 @@ ul li span:hover
    ul li
    {
     margin-top: 12px;
-    margin-left: -150px;
+    margin-left: -60px;
     font-size:80px;
     font-style: oblique; 
     color: blue;  
